@@ -1,0 +1,8 @@
+String Datatype
+string method
+string function
+string function
+
+
+bool datatype
+ 

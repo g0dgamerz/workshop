@@ -1,0 +1,13 @@
+Udhav PM
+shrawan  lectural
+
+sofware engineering 
+web development
+python programming
+
+django rest framework
+-->JSON
+-->creating rest api
+-->consuming rest api
+
+frontend library : react

@@ -1,0 +1,10 @@
+data types
+numbers
+string
+boolean
+list
+tuple
+set 
+Dictionary
+type function is used to inspect
+there are different method of list

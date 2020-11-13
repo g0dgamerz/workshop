@@ -1,0 +1,5 @@
+operator
+identifier
+statements
+comments # """
+quotation in python  all quote i.e '," , """ are used in python

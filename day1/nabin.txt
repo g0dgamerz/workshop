@@ -1,0 +1,8 @@
+Python lecture
+
+pip install virtualenv
+virtualenv env
+then go to env folder
+go to Script
+type and enter activate to activate
+and type and enter deactivate to deactivate
