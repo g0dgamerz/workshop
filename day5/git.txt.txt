@@ -1,0 +1,2 @@
+Introduction to git
+if ssh key is kept we don't need to add username name and password  
