@@ -1,0 +1,4 @@
+oop
+class
+inheritance
+encapsulation
