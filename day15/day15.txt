@@ -1,0 +1,3 @@
+ Classmethods
+ Staticmethods 
+ Exception handing.
